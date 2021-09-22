@@ -1,4 +1,4 @@
-# basic-ecommerce-nodejs
+# ecommerce-basic-nodejs
 
 - Navigate to the project folder
 - Create .env.dev file and copy .env.dev.example contents into .env.dev
